@@ -46,4 +46,5 @@ nav ul {
     left: 50%;
     top: 75%;
     transform: translate(-50%, 75%);
+    font-family: "Montserrat", sans-serif;
 }
